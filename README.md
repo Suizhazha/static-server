@@ -4,4 +4,4 @@
     `yarn global add node-dev`
 1. 下载代码 
     `https://github.com/Suizhazha/static-server.git`
-2. node-dev server.js 8888`
+2. `node-dev server.js 8888`
